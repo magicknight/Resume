@@ -6,7 +6,7 @@
 
 ## Usage
 ```
-1. git clone https://github.com/magicknight/resume
+git clone https://github.com/magicknight/resume
 ```
 1. Modify `index.html`, put in your information.
 1. Deploy.
@@ -16,15 +16,14 @@
 ## Development
 
 ```
-$ yarn
-$ yarn add -g gulp
-$ gulp
+yarn
+yarn dev
 ```
 
 ## Deploy on google cloud:
 1. get a google cloud account.
 ```
-1. gcloud app deploy
+gcloud app deploy
 ```
 
 ## LICENSE

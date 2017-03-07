@@ -6,10 +6,10 @@
 
 ## Usage
 
-1. Clone 到本地
-1. 在 `index.html` 和 `print.html` 文件中填写你的信息
-1. 生成PDF（以 Linux 操作系统 Chrome 浏览器为例）：打开`文件->打印`，设置布局为纵向，纸张尺寸为Letter，边距无，背景图片选项打钩，保存；压缩PDF，推荐在线压缩工具[smallpdf](http://smallpdf.com/cn/compress-pdf)；将压缩过的PDF文件放在根目录内
-1. 部署上线
+1. git clone https://github.com/magicknight/resume
+1. Modify `index.html` and `print.html`, input your information.
+1. Generate PDF（for example, Linux and Chrome browser). 'File->Print', portrait, letter, no margin, with background, save, then select PDF printer.
+1. Deploy.
 1. Enjoy it!
 
 ## Development
